@@ -1,0 +1,1 @@
+Enter a person's nickname to hide their messages in a Messenger group chat
